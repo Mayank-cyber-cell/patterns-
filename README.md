@@ -39,7 +39,7 @@ Key highlights of the pattern:
   - Every position in the **middle row**.  
   - The **middle column** of every row. 
 
-###📝 Notes
+### 📝 Notes
 
 The program assumes n is a positive integer.
 
